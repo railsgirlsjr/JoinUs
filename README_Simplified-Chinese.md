@@ -38,3 +38,10 @@ https://goo.gl/forms/EO5jSlMCNlo755OT2
 设计徽章，T-Shirt ，Logo 和相关物料中。
 
 让你的设计给全世界各地的 Rails Girls Jr 带来更酷的外观与外设。
+
+## 程序员
+帮助维护和开发 Rails Girls Jr 的相关网站与论坛。
+
+设计 Rails Girls Jr 的报名系统。
+
+制作不同系统的一键安装环境 Ruby on Rails 脚本，这样女孩们就可以在安装夜轻松的配置好环境。
