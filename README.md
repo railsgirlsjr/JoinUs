@@ -1,4 +1,7 @@
 # JoinUs
+[English](https://github.com/railsgirlsjr/JoinUs/blob/master/README.md)  
+[简体中文](https://github.com/railsgirlsjr/JoinUs/blob/master/README_Simplified-Chinese.md)  
+[繁體中文](https://github.com/railsgirlsjr/JoinUs/blob/master/README_Traditional-Chinese.md)  
 
 Love Rails Girls Jr? Want to join the team and contribute? Welcome!
 
