@@ -17,7 +17,7 @@
 
 这样我们就可以将 Rails Girls Jr 带到全世界更多的地方。
 
-欢迎开启 Issue 或发送邮件至 a@tuzi.moe。
+欢迎开启 Issue 或发送邮件至 tuzi@railsgirlsjr.com。
 
 ##  组织者
 如果你想在你的地区举办一场 Rails Girls Jr 。
@@ -26,12 +26,12 @@
 
 https://goo.gl/forms/EO5jSlMCNlo755OT2
 
-或发送邮件至 a@tuzi.moe。
+或发送邮件至 tuzi@railsgirlsjr.com。
 
 ## 艺术家
 如果你愿意让 Rails Girls Jr 变得更有创造性和更美丽。
 
-欢迎开启 issue 或发送邮件至 a@tuzi.moe 来加入团队。
+欢迎开启 issue 或发送邮件至 tuzi@railsgirlsjr.com 来加入团队。
 
 你可以切身加入进 Rails Girls Jr 的艺术家团队。
 
@@ -44,4 +44,4 @@ https://goo.gl/forms/EO5jSlMCNlo755OT2
 
 设计 Rails Girls Jr 的报名系统。
 
-制作不同系统的一键安装环境 Ruby on Rails 脚本，这样女孩们就可以在“安装夜”轻松地配置好环境。
+制作不同系统的一键安装环境 Ruby on Rails 脚本，这样女孩们就可以在『安装夜』轻松地配置好环境。
