@@ -44,4 +44,4 @@ https://goo.gl/forms/EO5jSlMCNlo755OT2
 
 设计 Rails Girls Jr 的报名系统。
 
-制作不同系统的一键安装环境 Ruby on Rails 脚本，这样女孩们就可以在安装夜轻松地配置好环境。
+制作不同系统的一键安装环境 Ruby on Rails 脚本，这样女孩们就可以在“安装夜”轻松地配置好环境。
