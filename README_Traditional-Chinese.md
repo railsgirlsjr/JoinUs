@@ -17,7 +17,7 @@
 
 這樣我們就可以將 Rails Girls Jr 帶到全世界更多的地方。
 
-歡迎開啟 Issue 或發送郵件至 a@tuzi.moe。
+歡迎開啟 Issue 或發送郵件至 a@tuzi.moe
 
 ## 組織者
 如果你想在你的地區舉辦一場 Rails Girls Jr 。
@@ -26,7 +26,7 @@
 
 https://goo.gl/forms/EO5jSlMCNlo755OT2
 
-或發送郵件至 a@tuzi.moe。
+或發送郵件至 a@tuzi.moe
 
 ## 藝術家
 如果你願意讓 Rails Girls Jr 變得更有創造性和更美麗。
